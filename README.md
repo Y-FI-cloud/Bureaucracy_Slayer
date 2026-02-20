@@ -19,5 +19,16 @@ The app utilizes 2 "AI Agents" (powered by a local LLM for absolute privacy) to 
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/Bureaucracy-Slayer-Pro.git](https://github.com/YOUR_USERNAME/Bureaucracy-Slayer-Pro.git)
+   git clone [https://github.com/Y-FI-cloud/Bureaucracy-Slayer-Pro.git](https://github.com/YOUR_USERNAME/Bureaucracy-Slayer-Pro.git)
    cd Bureaucracy-Slayer-Pro
+2. Install the required dependencies:
+
+ ```bash
+
+pip install -r requirements.txt
+ ```
+3. Run the Streamlit application:
+
+ ```bash
+
+streamlit run app.py
