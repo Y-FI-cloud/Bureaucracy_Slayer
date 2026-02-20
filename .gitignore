@@ -1,0 +1,20 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Streamlit config 
+.streamlit/
+
+# Bureaucracy Slayer Temp Folders & Profiles
+.bureaucracy_slayer/
+user_profile.json
+temp/
+*.pdf
+*.png
+*.docx
+
+# OS generated files
+.DS_Store
+Thumbs.db
