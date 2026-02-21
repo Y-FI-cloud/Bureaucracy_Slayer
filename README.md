@@ -54,8 +54,7 @@ The second Agent acts as your digital secretary.
 2. It performs smart matching (Semantic Matching). For example, it understands that the field "Father's Full Name" found in the PDF matches the "Father's Name" saved in your profile.
 3. It returns a structured JSON with the exact data ready to be printed on the form.
 
-<img width="444" height="608" alt="image" src="https://github.com/user-attachments/assets/49853c50-a62a-4e00-b6e2-c682be620ea1" />
-
+<img width="622" height="759" alt="image" src="https://github.com/user-attachments/assets/22667910-7d70-43bc-9d18-290d89d488b1" />
 
 Where the bue letters and numbers were added by the second agend.
 ---
